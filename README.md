@@ -17,6 +17,8 @@ This Unity project demonstrates how to view and interact with web content in VR 
     - Updated the OVRInputModule script's "Ray Transform" and "Joypad Click Button" values
     - Disabled the Sphere cursor visual
     - Enabled the LaserPointer's line renderer and set its material
+7. Installed [Meta Avatars SDK](https://developer.oculus.com/downloads/package/meta-avatars-sdk/) (v9.1).
+8. Copy objects `AvatarSdkManagerHorizon`, `Entities`, `LipSyncInput` and `NetworkLoopbackManager` from NetworkLoopback sample scene (`Assets/Oculus/Avatar2/Example/Scenes/NetworkLoopbackExample`).
 
 ## License
 
